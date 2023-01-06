@@ -21,4 +21,3 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="Node" width="40" height="40"/>&nbsp;
         
       </div>
-</div>
