@@ -24,9 +24,8 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
       </div>
-    
-    ### Me puedes encontrar en:
-    <p align="left">
+    <h3>Me puedes encontrar en:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/raul-moyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rocio-duarte-bazan/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andiimoyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rochiduarte1/" height="30" width="40" /></a>
 </p>
