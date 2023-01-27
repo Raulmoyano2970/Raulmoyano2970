@@ -27,5 +27,5 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
     <h3>Me puedes encontrar en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raul-moyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raul-moyano/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/andiimoyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andiimoyano/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andiimoyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andiimoyano/" height="30" width="38" /></a>
 </p>
