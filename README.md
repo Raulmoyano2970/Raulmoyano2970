@@ -5,7 +5,7 @@
 </div>
 
 
-### 👨‍💻 Sobre mí :
+### 👨‍💻 Sobre mí:
 Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo las nuevas tecnologías mas requeridas en el mercado y con una simulación de ambiente de trabajo 100% real. Tengo experiencia realizando aplicaciones Web y Mobile utilizando HTML5, CSS3, Bootstrap, JavaScript, Express, Mongoose, MongoDB, React, React Native, NodeJS, Redux Toolkit, Git - GitHub, entre otras. Aplicando las metodologías de trabajo Scrum, Agile y Learn By Doing que fueron la clave para mi crecimiento personal.
 
 
