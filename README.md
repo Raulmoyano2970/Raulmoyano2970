@@ -23,6 +23,7 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
       </div>
     <h3>Me puedes encontrar en:</h3>
 <p align="left">
