@@ -17,10 +17,10 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="65" height="65"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="65" height="65"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="Node" width="65" height="65"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="65" height="65"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="70 height="70/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="65" height="65"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Redux" alt="Redux" width="65" height="65"/>&nbsp;
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="65"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65height="65"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="65" height="65"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="tw" alt="tw" width="65" height="65"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="65" height="65"/>&nbsp;
