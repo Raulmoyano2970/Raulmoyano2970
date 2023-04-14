@@ -25,8 +25,8 @@ Me egresé de un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo 
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="tw" alt="tw" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
       </div>
     <h3>Me puedes encontrar en:</h3>
