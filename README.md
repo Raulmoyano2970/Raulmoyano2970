@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Sobre mí :
-Para potenciar mis habilidades en programacióm realice un intensivo Bootcamp en MindHub LA con mas de 1200hs aprendiendo las nuevas tecnologías mas requeridas en el mercado y con una simulación de ambiente de trabajo 100% real. Tengo experiencia realizando aplicaciones Web y Mobile utilizando HTML5, CSS3, Bootstrap, JavaScript, Express, Mongoose, MongoDB, React, React Native, NodeJS, Redux Toolkit, Git - GitHub, entre otras. Aplicando las metodologías de trabajo Scrum, Agile y Learn By Doing que fueron la clave para mi crecimiento personal.
+Para potenciar mis habilidades en programación realicé un intensivo Bootcamp en MindHub LA con más de 1200 hs aprendiendo las nuevas tecnologías más requeridas en el mercado y con una simulación de ambiente de trabajo 100% real. Tengo experiencia haciendo aplicaciones Web y Mobile utilizando HTML5, CSS3, Bootstrap, JavaScript, Express, Mongoose, MongoDB, React, React Native, NodeJS, Redux Toolkit, Git - GitHub, entre otras. Aplicando las metodologías de trabajo Scrum, Agile y Learn By Doing que fueron la clave para mi crecimiento personal.
 
 
 <div align="left">
