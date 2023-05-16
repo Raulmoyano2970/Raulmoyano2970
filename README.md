@@ -8,7 +8,7 @@
 ### 👨‍💻 Sobre mí: 
 Cuento con experiencia en la creación de aplicaciones Web y Mobile utilizando tecnologías modernas como React, React Native, JavaScript, Express, Mongoose, MongoDB, NodeJS, Redux, Redux Toolkit, HTML5, CSS3, GitHub, entre otras. 
 Poseo conocimientos en metodologías ágiles como Scrum, Agile y Learn By Doing, que han sido fundamentales para el desarrollo de mis habilidades como profesional.
-Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecnologías y herramientas, y me gusta enfrentar nuevos desafíos que me permitan dar lo mejor de mí.
+Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecnologías y herramientas, me gusta enfrentar nuevos desafíos que me permitan dar lo mejor de mí.
 
 
 <div align="left">
