@@ -28,8 +28,10 @@ Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecno
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="tw" alt="tw" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
-         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+            
       </div>
     <h3>Me puedes encontrar en:</h3>
 <p align="left">
