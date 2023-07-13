@@ -4,7 +4,7 @@
     <h3 align="center">🚀Estoy seguro que puedo aplicar mis habilidades a tus nuevos proyectos🚀</h3>
 </div>
 
-<a href="https://mi-portfolio-mu.vercel.app/" target="blank">
+<a href="https://mi-portfolio-mu.vercel.app/" target="blank"/>
 ### 👨‍💻 Sobre mí: 
 Cuento con experiencia en la creación de aplicaciones Web y Mobile utilizando tecnologías modernas como React, React Native, JavaScript, TypeScript, NextJs, Express, Mongoose, MongoDB, NodeJs, Redux, Redux Toolkit, HTML5, CSS3, GitHub, entre otras. 
 Poseo conocimientos en metodologías ágiles como Scrum, Agile y Learn By Doing, que han sido fundamentales para el desarrollo de mis habilidades como profesional.
