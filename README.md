@@ -13,7 +13,7 @@ Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecno
 
 
 <div align="left">
-    <h3>🔨Skills:</h3>
+<h3>🔨Skills:</h3>
 <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
