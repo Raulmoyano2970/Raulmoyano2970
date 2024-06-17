@@ -20,6 +20,7 @@ Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecno
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="50"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="selenium" alt="selenium" width="40" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="50" height="50"/>&nbsp;
+        <img src= "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue.js" alt="vue.js" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="Node" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="50" height="50"/>&nbsp;
@@ -30,7 +31,7 @@ Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecno
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="tw" alt="tw" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailw" alt="taildw" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="selenium" alt="selenium" width="50" height="50"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="vite" alt="vite" width="50" height="50"/>&nbsp;
       </div>
