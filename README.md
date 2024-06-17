@@ -19,9 +19,9 @@ Tengo la capacidad de adaptarme versátilmente a los diferentes proyectos, tecno
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="50"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="selenium" alt="selenium" width="40" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="50" height="50"/>&nbsp;
         <img src= "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue.js" alt="vue.js" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="node" alt="Node" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
