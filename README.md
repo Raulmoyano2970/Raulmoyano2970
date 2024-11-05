@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="350" /> 
     <h1 align="center">Hola👋 Soy desarrollador Web y Mobile. </h1>
-    <h3 align="center">🚀Estoy seguro que puedo aplicar mis habilidades a tus nuevos proyectos🚀</h3>
+    <h3 align="center">🚀Estoy seguro que puedo aplicar mis habilidades a tus nuevos proyectos🚀.</h3>
 </div>
  <h3>Mi Portfolio:</h3>
 <a href="https://mi-portfolio-mu.vercel.app/" target="blank">https://mi-portfolio-mu.vercel.app/</a> 
